@@ -9,7 +9,7 @@
 ### Requirements
 - `node >= 16.x`
 
-### Installation
+### Installation 
 
 ```shell
 npm install -g @microsoft/inshellisense
